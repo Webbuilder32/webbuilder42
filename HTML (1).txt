@@ -1,0 +1,41 @@
+index.html:
+----------
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" Href="style.css">
+    
+    </head>
+    <body>
+        <h1> Info about Neil. </h1>
+        <p> Hello, welcome to the Lifespan Psychaitary of Colorado. I am Our psychotherapist, Neil Sanchez, MA, LPC, is a Licensed Professional Counselor (LPC) and National Certified Counselor (NCC). Neil graduated in 2005 from The University of Colorado Colorado Springs. His practice area focus is in Eye Movement Desensitization and Reprocessing (EMDR), and he is dedicated to helping clients navigate a wide range of psychological challenges, including trauma, anxiety, depression, stress, and life transitions. In his practice, Neil creates a warm, safe, and non-judgmental environment, encouraging clients to explore their thoughts and feelings openly. He believes in empowering my clients by providing them with the tools and strategies they need to effect meaningful change in their lives. Neil's approach is holistic and uses humor when appropriate, considering aspects of an individual's well-being, including mental, emotional, physical, and social health. Neil is an active member of the American Counseling Association, National Board for Certified Counselors. He is also an advocate for destigmatizing mental health issues and foster open conversations about mental wellness in various settings. When not in the office, Neil enjoys being physically active with hiking, Jiu Jitsu, camping and spending time with his family. His belief in a balanced life is woven into my therapeutic philosophy, where he encourages his clients to find joy and fulfillment in their own lives.  </p>
+        <img src="https://codehs.com/uploads/a5f2ae48fe2b5f29b3a6b4460087be65"></img>
+        <h2> contact me, or us here. <h2>
+        <p> lifespan email: office@lifespancolorado.com </p>
+        <p>lifespan phone number: 970-579-0003</p>
+        <p>
+        <a href=https://www.lifespancolorado.com/> lifespan </a>
+        <p> address: 1006 N 5th St, Grand Junction, CO 81501 </p>
+    </body>
+</html>
+
+style.css:
+---------
+body{
+    background-color:gray;
+}    
+p{
+    font-family:monospace;
+    font-size:20px;
+    border-style:dotted;
+}
+h1{
+    border-style:dotted;
+}
+a{
+    font-size:25px;
+}
+img{
+    height:250px;
+    width:200px;
+}
+
